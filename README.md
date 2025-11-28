@@ -7,6 +7,17 @@ The corpus includes **human-generated**, **community-contributed**, and **synthe
 
 It fills a critical gap where existing hate-speech corpora lack gender-specific and technology-enabled forms of abuse, especially for low-resource languages.
 
+**A joint initiative of [Open Knowledge Nepal (OKN)](https://oknp.oeg) and [Women Leaders in Technology (WliT)](https://wlit.org/)**
+
+
+
+<img width="277" height="79" alt="image" src="https://github.com/user-attachments/assets/a2fb9fa6-dd0e-42ad-8e0c-4627800f387c" />
+
+<br/>
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/c8c07574-75a6-4973-b6b7-806e24c0d9aa" />
+
+
+
 ---
 
 ## 📌 Table of Contents
@@ -199,9 +210,9 @@ While attribution is not legally required under CC0, it is always appreciated as
 If you use this dataset, please cite it as:
 
 ```bibtex
-@dataset{tfgbv2025,
+@dataset{nepal-digitalsafety-corpus2025,
   title={Nepal Digital Safety Corpus},
-  author={Open Knowledge Nepal and Contributors},
+  author={Open Knowledge Nepal (OKN), Women Leaders in Technology (WLiT) Contributors},
   year={2025},
   url={[https://github.com/yourrepo/tfgbv-corpus](https://github.com/openknowledgenp/nepal-digitalsafety-corpus)}
 }
