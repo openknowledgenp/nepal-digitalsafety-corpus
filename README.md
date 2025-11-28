@@ -10,11 +10,7 @@ It fills a critical gap where existing hate-speech corpora lack gender-specific 
 **A joint initiative of [Open Knowledge Nepal (OKN)](https://oknp.org/) and [Women Leaders in Technology (WliT)](https://wlit.org/)**
 
 
-
-<img width="277" height="79" alt="image" src="https://github.com/user-attachments/assets/a2fb9fa6-dd0e-42ad-8e0c-4627800f387c" />
-
-<br/>
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/c8c07574-75a6-4973-b6b7-806e24c0d9aa" />
+<img width="320" height="142" alt="image" src="https://github.com/user-attachments/assets/623ba3e6-9a93-4e94-be6d-85285f9d60f9" />
 
 
 
