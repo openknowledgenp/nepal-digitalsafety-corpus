@@ -212,7 +212,7 @@ If you use this dataset, please cite it as:
 ```bibtex
 @dataset{nepal-digitalsafety-corpus2025,
   title={Nepal Digital Safety Corpus},
-  author={Open Knowledge Nepal (OKN), Women Leaders in Technology (WLiT) Contributors},
+  author={Open Knowledge Nepal (OKN), Women Leaders in Technology (WLiT)},
   year={2025},
   url={[https://github.com/yourrepo/tfgbv-corpus](https://github.com/openknowledgenp/nepal-digitalsafety-corpus)}
 }
