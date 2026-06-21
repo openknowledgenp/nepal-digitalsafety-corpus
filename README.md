@@ -7,12 +7,7 @@ The corpus includes **human-generated**, **community-contributed**, and **synthe
 
 It fills a critical gap where existing hate-speech corpora lack gender-specific and technology-enabled forms of abuse, especially for low-resource languages.
 
-**A joint initiative of [Open Knowledge Nepal (OKN)](https://oknp.org/) and [Women Leaders in Technology (WliT)](https://wlit.org/)**
-
-
-<img width="320" height="142" alt="image" src="https://github.com/user-attachments/assets/623ba3e6-9a93-4e94-be6d-85285f9d60f9" />
-
-
+**An initiative of [Open Knowledge Nepal (OKN)](https://oknp.org/)**
 
 ---
 
